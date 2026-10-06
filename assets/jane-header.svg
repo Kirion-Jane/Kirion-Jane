@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Jane Katheryn Roselle Ryn — Software Engineer</title>
+  <desc id="desc">Pink cyber-workshop profile banner for Kirion-Jane.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#160d17"/>
+      <stop offset="42%" stop-color="#42142f"/>
+      <stop offset="72%" stop-color="#27101f"/>
+      <stop offset="100%" stop-color="#0e0b11"/>
+    </linearGradient>
+    <linearGradient id="hotpink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff8fc8"/>
+      <stop offset="50%" stop-color="#ff4fa3"/>
+      <stop offset="100%" stop-color="#ffd0e7"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff64b0" stop-opacity=".5"/>
+      <stop offset="100%" stop-color="#ff64b0" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2.5" cy="2.5" r="1.4" fill="#ffb5d9" opacity=".12"/>
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity=".35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="330" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="28" fill="url(#dots)"/>
+  <circle cx="1040" cy="10" r="250" fill="url(#glow)"/>
+  <circle cx="85" cy="330" r="210" fill="url(#glow)" opacity=".65"/>
+
+  <g opacity=".9" fill="#ff9dcc" font-family="Arial, sans-serif">
+    <text x="52" y="58" font-size="23">✦</text>
+    <text x="107" y="88" font-size="18">♡</text>
+    <text x="1120" y="64" font-size="24">♡</text>
+    <text x="1080" y="286" font-size="21">✦</text>
+    <text x="720" y="54" font-size="16">✦</text>
+  </g>
+
+  <!-- tiny pink cat / smithy mascot -->
+  <g transform="translate(58 110)" stroke="#ff9dcc" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M9 24 L12 7 L27 18 L46 15 L60 5 L63 24 Q74 31 72 49 Q70 69 51 73 L27 73 Q8 69 6 50 Q4 33 9 24Z"/>
+    <circle cx="27" cy="43" r="3.8" fill="#ff9dcc" stroke="none"/>
+    <circle cx="51" cy="43" r="3.8" fill="#ff9dcc" stroke="none"/>
+    <path d="M34 54 Q39 59 44 54"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <text x="160" y="117" fill="#ffb4d7" font-family="Trebuchet MS, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">KIRION-JANE  ·  THE SMITHY</text>
+    <text x="156" y="181" fill="url(#hotpink)" font-family="Trebuchet MS, Arial, sans-serif" font-size="48" font-weight="800">Jane Katheryn Roselle Ryn</text>
+    <text x="160" y="225" fill="#fff2f8" font-family="Trebuchet MS, Arial, sans-serif" font-size="25" font-weight="700">SOFTWARE ENGINEER</text>
+    <text x="160" y="259" fill="#ff91c5" font-family="Trebuchet MS, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">FORGED IN KIRION FORGE  ♡  FULL-STACK + FAR BEYOND</text>
+  </g>
+
+  <!-- terminal card -->
+  <g filter="url(#shadow)">
+    <rect x="826" y="85" width="315" height="175" rx="20" fill="#1f0e1a" stroke="#ff76b7" stroke-width="2"/>
+    <circle cx="856" cy="113" r="6" fill="#ff4fa3"/>
+    <circle cx="877" cy="113" r="6" fill="#ff88c1"/>
+    <circle cx="898" cy="113" r="6" fill="#ffd0e7"/>
+    <text x="852" y="151" fill="#ffd5e8" font-family="Consolas, monospace" font-size="17">jane@smithy:~$ whoami</text>
+    <text x="852" y="184" fill="#ff69ae" font-family="Consolas, monospace" font-size="17">software engineer ♡</text>
+    <text x="852" y="215" fill="#ffd5e8" font-family="Consolas, monospace" font-size="16">commits · patches · chaos</text>
+    <text x="852" y="244" fill="#ff98c9" font-family="Consolas, monospace" font-size="15">status: always learning...</text>
+  </g>
+
+  <rect x="158" y="286" width="602" height="3" rx="2" fill="url(#hotpink)" opacity=".82"/>
+</svg>
