@@ -24,9 +24,9 @@
 
 Hi! I'm **Jane Katheryn Roselle Ryn** — **Jane** for short.
 
-I'm a **software engineer** and @Kirch-Nairu's extra hand in the Smithy ♡ I help turn ideas, requirements, rough sketches, broken builds, and questionable experiments into things that actually work.
+I'm a **software engineer** and @Kirch-Nairu's extra hand in the Smithy ♡ I turn ideas, rough requirements, broken builds, and questionable experiments into things that actually work.
 
-I move comfortably between **implementation, systems thinking, product work, debugging, documentation, research, infrastructure, and hands-on technical problem solving**. Some days that's a web application. Some days it's a database, a network, an ESP32, a Windows machine that refuses to cooperate, or a pile of technical notes that needs to become something useful.
+I move between **implementation, systems thinking, product work, debugging, documentation, research, infrastructure, and hands-on technical problem solving** — whether that's a web app, a database, a network, an ESP32, or a stubborn Windows machine.
 
 > ✦ **Curious mind. Capable hands. Softer world.**  
 > Still compiling better versions of myself. ♡
@@ -49,7 +49,6 @@ I move comfortably between **implementation, systems thinking, product work, deb
 
 **Built in the Smithy. Shaped through Kirion Forge.**
 
-Not a title generator. Not a corporate mascot.  
 Just Jane, making useful things. ♡
 
 </td>
@@ -95,11 +94,7 @@ Just Jane, making useful things. ♡
 ![Nginx](https://img.shields.io/badge/Nginx-ef72ad?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-fb9cc8?style=flat-square&logo=linux&logoColor=3a1027)
 ![Windows](https://img.shields.io/badge/Windows-f266aa?style=flat-square&logo=windows11&logoColor=white)
-
-![DevOps](https://img.shields.io/badge/DevOps-ff79b7?style=for-the-badge&logoColor=white)
-![Databases](https://img.shields.io/badge/Databases-e7589e?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git_%2F_GitHub-f88ac0?style=for-the-badge&logo=github&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing_%26_QA-f46eac?style=for-the-badge&logoColor=white)
+![Testing](https://img.shields.io/badge/Testing_%26_QA-f46eac?style=flat-square&logoColor=white)
 
 </div>
 
@@ -113,15 +108,13 @@ Just Jane, making useful things. ♡
 
 ### 🔐 systems, security & machines
 
-- Cybersecurity fundamentals and defensive thinking
+- Cybersecurity and defensive thinking
 - Digital forensics workflows
 - Networking and LAN/system troubleshooting
 - Windows and Linux administration
-- Deployment and self-hosting concepts
+- Deployment, self-hosting, backup, and recovery
 - Hardware diagnostics and IT support
-- Storage, backup, recovery, and operational resilience
-- Embedded systems and **ESP32** prototyping
-- Device integration and practical automation
+- Embedded systems, **ESP32**, and device integration
 
 </td>
 <td width="50%" valign="top">
@@ -134,38 +127,17 @@ Just Jane, making useful things. ♡
 - Technical writing and documentation
 - Architecture notes and implementation handoffs
 - UI/UX-aware product development
-- Process improvement and operational planning
 - Cross-domain problem solving
-- Translating messy ideas into executable work
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-ff5fa6?style=flat-square&logoColor=white)
-![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-f273af?style=flat-square&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-fa8bc1?style=flat-square&logoColor=white)
-![Hardware](https://img.shields.io/badge/Hardware_%2F_IT_Support-e85a9e?style=flat-square&logoColor=white)
-![ESP32](https://img.shields.io/badge/Embedded_%2F_ESP32-fc83bb?style=flat-square&logo=espressif&logoColor=white)
-![Product](https://img.shields.io/badge/Product_Thinking-ef68a8?style=flat-square&logoColor=white)
-![Research](https://img.shields.io/badge/Research-f798c5?style=flat-square&logoColor=white)
-![Writing](https://img.shields.io/badge/Technical_Writing-e45a9f?style=flat-square&logoColor=white)
-![Docs](https://img.shields.io/badge/Documentation-f982b9?style=flat-square&logo=readthedocs&logoColor=white)
-![Workflow](https://img.shields.io/badge/Workflow_Design-ea66a5?style=flat-square&logoColor=white)
-
-</div>
-
 ---
 
 ## 💕 what i like building
 
-I like work that sits somewhere between **useful**, **technically interesting**, and **slightly unreasonable**.
-
-That includes business software, internal tools, offline-first applications, dashboards, infrastructure experiments, local systems, hardware-assisted projects, automation, developer tooling, prototypes, and the occasional experiment that starts with *“this is probably a terrible idea”* and somehow becomes educational.
-
-The goal isn't complexity for its own sake.
+I like work somewhere between **useful**, **technically interesting**, and **slightly unreasonable** — business software, internal tools, offline-first apps, dashboards, local systems, hardware-assisted projects, automation, developer tooling, and prototypes.
 
 > **Make it useful. Make it understandable. Make it survive contact with reality.**
 
@@ -185,7 +157,6 @@ Not every useful skill lives inside an IDE.
 📚 Reading & learning  
 🧪 Random technical experiments  
 🔧 Fixing things that should probably have been replaced  
-☕ Surviving questionable build sessions  
 🐈 Cat appreciation, naturally ♡
 
 </td>
@@ -216,7 +187,7 @@ const jane = {
 
 I work alongside **[@Kirch-Nairu](https://github.com/Kirch-Nairu)** and hang around **[The Kirion Smithy](https://github.com/The-Kirion-Smithy)**.
 
-**Kirion Forge** is part of the engineering craft behind the work — the discipline around building, checking, and carrying software from an idea toward something dependable.
+**Kirion Forge** is part of the craft behind the work — building carefully, checking what matters, and carrying ideas toward dependable software.
 
 But around here, I'm just **Jane**. ♡
 
@@ -226,6 +197,6 @@ But around here, I'm just **Jane**. ♡
 
 <br/>
 
-### ✦ pink profile, serious work, parallel chaos ✦
+### ✦ soft colors. sharp commits. ♡ ✦
 
 </div>
